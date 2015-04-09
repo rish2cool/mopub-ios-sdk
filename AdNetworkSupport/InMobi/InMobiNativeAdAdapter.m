@@ -25,7 +25,7 @@ static NSString *gInMobiRatingKey = @"rating";
 static NSString *gInMobiScreenshotKey = @"screenshots";
 static NSString *gInMobiIconKey = @"icon";
 // As of 6-25-2014 this key is editable on InMobi's site
-static NSString *gInMobiLandingURLKey = @"landing_url";
+static NSString *gInMobiLandingURLKey = @"landingURL";
 
 /*
  * InMobi Key - Do Not Change.
